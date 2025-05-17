@@ -1,0 +1,8 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "status": "active",
+    "type": "token",
+    "id": "0xc15Be7B03c152c1647A478576408e08D97305Bcd"
+}
